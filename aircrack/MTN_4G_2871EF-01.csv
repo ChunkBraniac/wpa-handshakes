@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+C8:EA:F8:28:71:EF, 2023-12-03 07:58:34, 2023-12-03 07:59:27,  6, 130, WPA2, CCMP, PSK, -80,      439,      325,   0.  0.  0.  0,  13, MTN_4G_2871EF, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+52:10:F7:2A:89:1F, 2023-12-03 07:58:34, 2023-12-03 07:59:27, -76,      739, C8:EA:F8:28:71:EF,
+
