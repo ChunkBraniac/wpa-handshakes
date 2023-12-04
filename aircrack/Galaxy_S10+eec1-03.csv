@@ -1,7 +1,0 @@
-
-BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
-72:9F:A9:C4:2F:71, 2023-12-04 07:21:46, 2023-12-04 07:22:53, 13,  65, WPA2, CCMP, PSK, -53,      599,    47451,   0.  0.  0.  0,  17, AndroidShare_6473, 
-
-Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
-F6:24:C9:B2:EE:61, 2023-12-04 07:21:49, 2023-12-04 07:22:41, -54,    47815, 72:9F:A9:C4:2F:71,
-

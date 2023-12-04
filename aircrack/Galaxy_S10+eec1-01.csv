@@ -1,7 +1,0 @@
-
-BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
-DA:D6:08:5F:C9:CC, 2023-12-04 07:20:20, 2023-12-04 07:20:58,  6, 130, WPA2, CCMP, PSK, -92,       10,        4,   0.  0.  0.  0,  15, Galaxy S10+eec1, 
-
-Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
-42:60:C5:F0:99:51, 2023-12-04 07:20:25, 2023-12-04 07:20:55, -94,      573, DA:D6:08:5F:C9:CC,
-
